@@ -1,0 +1,26 @@
+{
+  "name": "integration-example-vercel-rails",
+  "version": "0.1.0",
+  "main": "index.js",
+  "engines": {
+    "node": "14.x"
+  },
+  "scripts": {
+    "build": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv-vault-core": "^0.5.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petarsrepo/integration-example-vercel-rails.git"
+  },
+  "bugs": {
+    "url": "https://github.com/petarsrepo/integration-example-vercel-rails/issues"
+  },
+  "homepage": "https://github.com/petarsrepo/integration-example-vercel-rails#readme",
+  "description": ""
+}
